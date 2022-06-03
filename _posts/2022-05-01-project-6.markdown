@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+date: 2022-05-01
+img: SMC_Poster_SP2022_Group02.png
+description: SSU Week of Research & Creativity, Science Symposium Poster
+type: Poster
+link: https://smc.cs.sonoma.edu/S22/posters/SMC_Poster_SP2022_Group02.pdf
+---

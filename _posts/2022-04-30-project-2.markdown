@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 2
+date: 2022-05-02
+img: team2.png
+description: Team 2's Interpretive Photosphere for Environmental Inquiry
+type: Website
+link: https://smc.cs.sonoma.edu/S22/team2
+---
